@@ -1,0 +1,11 @@
+#simulation {
+  display: flex;
+  padding: 17px; 
+}
+
+h1 {
+  font-family: 'Nixie One', cursive;
+  color: #498dc1;
+  font-size: 22px;
+  padding: 17px;
+}
